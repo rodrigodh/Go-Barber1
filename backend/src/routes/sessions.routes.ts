@@ -23,7 +23,7 @@ sessionsRouter.post('/', async (request, response) => {
   const userNoPass: UserNoPass = user;
   delete userNoPass.password;
 
-  return response.json({ userNoPass, token });
+  return response.json({ user: userNoPass, token });
 });
 
 export default sessionsRouter;
