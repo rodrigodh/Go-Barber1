@@ -1,8 +1,1 @@
-backend/coverage/lcov.info
-backend/coverage/lcov-report/index.html
-backend/coverage/lcov-report/appointments/services/CreateAppointmentService.ts.html
-backend/coverage/lcov-report/appointments/services/index.html
-backend/coverage/lcov-report/users/services/AuthenticateUserService.ts.html
-backend/coverage/lcov-report/users/services/CreateUserService.ts.html
-backend/coverage/lcov-report/users/services/index.html
-backend/coverage/lcov-report/users/services/UpdateUserAvatarService.ts.html
+backend/coverage
